@@ -3,13 +3,14 @@ import random
 print("""
 MUNDO ESTRANHO
 
-Vocês despertam em um lugar desconhecido.
+Você e seu amigo(a) despertam em um lugar desconhecido.
 
 Ao longe, uma saída aparece em fragmentos.
 Cada escolha pode aproximar ou afastar vocês dela.
 
 Objetivo:
 Encontrar 5 fragmentos para abrir a saída.
+
 """)
 
 # ===== ESTADO =====
